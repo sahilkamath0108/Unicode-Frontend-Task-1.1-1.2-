@@ -440,6 +440,10 @@ hr{
   border: 1px solid;
 }
 
+.about-text{
+  padding: 10px 80px;
+}
+
 @media (max-width: 700px){
 
   .bottom1{
